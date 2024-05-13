@@ -9,5 +9,5 @@
 </head>
 
 <body>
-    <h1>HelloWorldでました</h1>
+    <h1>HelloWorldでた</h1>
 </body>
